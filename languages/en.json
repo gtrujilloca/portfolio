@@ -1,0 +1,40 @@
+{
+  "profile": {
+    "rol": "Front end developer",
+    "description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti."
+  },
+  "experiences": [
+    {
+      "job-title": "Back end developer",
+      "job-dates": "Enero 2000 - Junio 2000",
+      "job-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti."
+    },
+    {
+      "job-title": "Back end developer",
+      "job-dates": "Enero 2000 - Junio 2000",
+      "job-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti."
+    },
+    {
+      "job-title": "Back end developer",
+      "job-dates": "Enero 2000 - Junio 2000",
+      "job-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti."
+    }
+  ],
+  "projects": [
+    {
+      "project-title": "landing page",
+      "project-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+      "project-tags": ["HTML","CSS", "Javascript", "Responsive"]
+    },
+    {
+      "project-title": "landing page",
+      "project-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+      "project-tags": ["HTML","CSS", "Javascript", "Responsive"]
+    },
+    {
+      "project-title": "landing page",
+      "project-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+      "project-tags": ["HTML","CSS", "Javascript", "Responsive"]
+    }
+  ]
+}

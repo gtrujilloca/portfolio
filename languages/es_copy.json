@@ -1,0 +1,22 @@
+{
+  "profile": {
+    "rol": "Desarrollador Front end",
+    "description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti."
+  },
+  "experiences": {
+    "first-job-title": "Desarrollador Back end",
+    "first-job-dates": "Enero 2000 - Junio 2000",
+    "first-job-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+    "second-job-title": "Desarrollador Back end",
+    "second-job-dates": "Enero 2000 - Junio 2000",
+    "second-job-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+    "last-job-title": "Desarrollador Back end",
+    "last-job-dates": "Enero 2000 - Junio 2000",
+    "last-job-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti."
+  },
+  "projects": {
+    "first-project-title": "landing page",
+    "first-project-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+    "first-project-tags": ["HTML","CSS", "Javascript", "Responsive"]
+  }
+}
